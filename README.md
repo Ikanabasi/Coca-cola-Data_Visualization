@@ -9,5 +9,6 @@ I added filters like Region, Retailer and Beverage brand as this would help the 
 According to the data, more sales where made in the west and lesser sales in the midwest.
 
 Interact with the dashboard here
+
 https://1drv.ms/x/s!AmZ_QZtt_SEllizJ7Q6Wh9rxA8Ox
 
