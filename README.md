@@ -1,4 +1,4 @@
-# Coca-cola-Data_Visualization
+# Coca-cola Data_Visualization
 
 In this project, i took on the work of an Excel Analyst and visualized Coca-cola data from key American retailers.
 I added filters like Region, Retailer and Beverage brand as this would help the Coca-cola company gain insights on the Total sales, Total units sold, Total operating profit and Average operating margin.
